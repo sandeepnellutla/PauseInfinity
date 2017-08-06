@@ -1,0 +1,9 @@
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\bin\Debug\netcoreapp1.1\PauseAdmin.deps.json
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\bin\Debug\netcoreapp1.1\PauseAdmin.runtimeconfig.json
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\bin\Debug\netcoreapp1.1\PauseAdmin.runtimeconfig.dev.json
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\bin\Debug\netcoreapp1.1\PauseAdmin.dll
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\obj\Debug\netcoreapp1.1\PauseAdmin.csprojResolveAssemblyReference.cache
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\obj\Debug\netcoreapp1.1\PauseAdmin.AssemblyInfo.cs
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\bin\Debug\netcoreapp1.1\PauseAdmin.pdb
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\obj\Debug\netcoreapp1.1\PauseAdmin.dll
+D:\Projects\PauseInfinity\PauseAdmin\PauseAdmin\obj\Debug\netcoreapp1.1\PauseAdmin.pdb
