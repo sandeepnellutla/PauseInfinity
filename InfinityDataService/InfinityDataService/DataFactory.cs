@@ -1,16 +1,15 @@
-﻿using Nancy;
-using System;
+﻿using InfinityDataService.Dal;
+using InfinityDataService.Model;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace InfinityDataService
 {
-    public class DataFactory:NancyModule
+    public static class DataFactory
     {
-        public DataFactory()
-        {
-            Get["/"] = parameters => "Hello World";
-        }
+        static CategoryDataFactory categoryDataFactory = new CategoryDataFactory();
+
+        public static List<Category> GetCategories()=> categoryDataFactory.GetCategories();
+
+        public static Category GetCategoryById(int id) => categoryDataFactory.GetCategoryById(id);
     }
 }

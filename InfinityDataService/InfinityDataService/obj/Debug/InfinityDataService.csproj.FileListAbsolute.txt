@@ -55,7 +55,6 @@ D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\bin\Nancy.dll
 D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\bin\Dapper.xml
 D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\bin\Nancy.xml
-D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\obj\Debug\InfinityDataService.csprojResolveAssemblyReference.cache
 D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\obj\Debug\InfinityDataService.csproj.CoreCompileInputs.cache
 D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\obj\Debug\InfinityDataService.dll
 D:\Projects\PauseInfinity\InfinityDataService\InfinityDataService\obj\Debug\InfinityDataService.pdb
